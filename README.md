@@ -1,5 +1,5 @@
 # Terraform Zero to Hero course
-
+# Updated Description
 ## Day 1: Getting Started with Terraform
 
 #### Introduction to Terraform and IaC
